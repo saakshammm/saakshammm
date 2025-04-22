@@ -1,6 +1,6 @@
 # Hi, I'm Saksham 👋
 
-I'm a passionate developer currently focused on C# for Unity.  
+I'm a passionate developer currently focused on C# .  
 Currently learning game development and working on cool projects.  
 
 ## Skills 🕹️
