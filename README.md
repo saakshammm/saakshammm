@@ -6,7 +6,7 @@ Currently learning game development and working on cool projects.
 ## Skills 🕹️
 - C, C++, C#, Python 
 - Unity
-- Game Development (Basic)
+- Basic Game Development 
 
 ## Learnings 🌱
 - My Unity Learnings: https://github.com/saakshammm/Unity-Projects
