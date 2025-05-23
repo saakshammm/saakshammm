@@ -9,8 +9,7 @@ Currently learning game development and working on cool projects.
 - Basic Game Development 
 
 ## Learnings 🌱
-- My Unity Learnings: https://github.com/saakshammm/Unity-Projects
-- My Python Learnings: https://github.com/saakshammm/Python-Challenge
+- Unity: https://github.com/saakshammm/Unity-Projects
 
 ## Connect with me 🤝
 - Twitter: saakshammmm
