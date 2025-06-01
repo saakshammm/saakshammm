@@ -1,5 +1,4 @@
-<!-- Banner (optional, replace the URL with your own if you'd like a personal one) -->
-![Banner](https://i.imgur.com/zQZSWrt.png)
+
 
 ### Hi there, I'm Saksham 👋
 
