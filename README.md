@@ -1,14 +1,51 @@
-# Hi, I'm Saksham 👋
+<!-- Banner (optional, replace the URL with your own if you'd like a personal one) -->
+![Banner](https://i.imgur.com/zQZSWrt.png)
 
-I'm a passionate developer currently focused on C# for Unity.
-Currently learning game development.  
+### Hi there, I'm Saksham 👋
 
-## Skills 🕹️
-- C, C++, C#, Python, Java
-- Unity, Unreal Engine
+🎮 Aspiring Game Developer | 🧠 Constant Learner | 💻 C# & Unity Enthusiast
 
-## Learnings 🌱
-- Unity: https://github.com/saakshammm/Unity-Projects
+I'm a passionate developer focused on building immersive experiences using **C# and Unity**. Currently learning more about **game development**, game engines, and real-time simulations.
 
-## Connect with me 🤝
-- Twitter: saakshammmm
+---
+
+### 🛠️ Skills
+
+- **Languages**: C, C++, C#, Python, Java  
+- **Game Engines**: Unity, Unreal Engine
+
+---
+
+### 🌱 Currently Learning
+
+- Game Development with **Unity**  
+  🔗 [Explore my Unity projects](https://github.com/saakshammm/Unity-Projects)
+
+---
+
+### 📊 GitHub Stats
+
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saakshammm&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saakshammm&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🏷️ Badges
+
+![Unity](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Engine-Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/Code-C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🤝 Connect with Me
+
+- 🐦 Twitter: [@saakshammm](https://twitter.com/saakshammm)
+
+---
+
+<!-- Optional GitHub streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saakshammm&theme=tokyonight&hide_border=true)
