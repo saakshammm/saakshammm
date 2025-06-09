@@ -27,7 +27,6 @@ I'm a passionate developer focused on building immersive experiences using **C# 
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C#](https://img.shields.io/badge/Code-C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
