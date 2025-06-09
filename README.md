@@ -37,5 +37,3 @@ I'm a passionate developer focused on building immersive experiences using **C# 
 
 ---
 
-<!-- Optional GitHub streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saakshammm&theme=tokyonight&hide_border=true)
