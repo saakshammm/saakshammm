@@ -21,14 +21,6 @@ I'm a passionate developer focused on building immersive experiences using **C# 
 
 ---
 
-### 📊 GitHub Stats
-
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saakshammm&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saakshammm&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🏷️ Badges
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
