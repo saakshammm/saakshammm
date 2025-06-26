@@ -21,4 +21,4 @@ Right now, I’m focused on building a solid foundation in programming, machine 
 ---
 
 ### 📬 Reach Me
-- LinkedIn: (https://www.linkedin.com/in/saakshammm/)
+- LinkedIn: https://www.linkedin.com/in/saakshammm/
