@@ -13,7 +13,7 @@ Right now, I’m focused on building a solid foundation in programming, machine 
 ---
 
 ### 🧰 Tools I Use
-- Python, C, C++
+- Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
 - Git, GitHub, Jupyter
