@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Saksham
 
-I'm a computer science student who enjoys solving problems with code and learning things that actually matter. 
+I'm a computer applications student who enjoys solving problems with code and learning things that actually matter. 
 Right now, I’m focused on building a solid foundation in programming, machine learning, and real-world development workflows.
 
 ---
