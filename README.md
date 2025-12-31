@@ -1,24 +1,35 @@
 # 👋 Hey, I'm Saksham
 
-I'm a computer applications student who enjoys solving problems with code and learning things that actually matter. 
-Right now, I’m focused on building a solid foundation in programming, machine learning, and real-world development workflows.
+I’m a student who likes breaking problems down, building small things that actually run, and then slowly leveling them up.  
+Most of my time goes into Python, ML basics, and figuring out how to think clearly before touching the keyboard. 
 
 ---
 
 ### 🧭 What I’m Doing
-- Learning Python deeply through projects
-- Practicing data analysis and basic machine learning (scikit-learn, pandas, matplotlib)
-- Exploring how to think clearly and build things that work
+
+- Turning Python tutorials into tiny projects instead of just watching them  
+- Playing with data analysis and starter ML stuff (pandas, scikit-learn, matplotlib)  
+- Trying to build clean habits: readable code, good git commits, and simple, working solutions 
 
 ---
 
 ### 🧰 Tools I Use
-- Python
-- Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn
-- Git, GitHub, Jupyter
+
+- **Languages:** Python  
+- **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Workflow:** Git, GitHub, Jupyter Notebooks 
+
+---
+
+### 🌱 What I’m Trying To Get Better At
+
+- Explaining ideas without buzzwords  
+- Writing code that future‑me won’t hate  
+- Finishing projects instead of endlessly “researching” them
 
 ---
 
 ### 📬 Reach Me
-- LinkedIn: https://www.linkedin.com/in/saakshammm/
+
+- LinkedIn: [Click here!](https://www.linkedin.com/in/saakshammm/)
+- Portfolio: [Click here!](https://saakshammm.github.io/portfolio/)
