@@ -1,35 +1,49 @@
-# 👋 Hey, I'm Saksham
+# hey, i'm saksham.
 
-I’m a student who likes breaking problems down, building small things that actually run, and then slowly leveling them up.  
-Most of my time goes into Python, ML basics, and figuring out how to think clearly before touching the keyboard. 
+AI student. Builder. Deployer of things that actually run.
 
----
-
-### 🧭 What I’m Doing
-
-- Turning Python tutorials into tiny projects instead of just watching them  
-- Playing with data analysis and starter ML stuff (pandas, scikit-learn, matplotlib)  
-- Trying to build clean habits: readable code, good git commits, and simple, working solutions 
+I got tired of projects that live forever in "almost done" hell —
+so everything I make either ships or gets deleted.
+No half-finished notebooks. No "coming soon."
+If it's pinned, it works. Right now. Click it.
 
 ---
 
-### 🧰 Tools I Use
+### what i actually do
 
-- **Languages:** Python  
-- **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Workflow:** Git, GitHub, Jupyter Notebooks 
-
----
-
-### 🌱 What I’m Trying To Get Better At
-
-- Explaining ideas without buzzwords  
-- Writing code that future‑me won’t hate  
-- Finishing projects instead of endlessly “researching” them
+I train models from scratch, wire up LLM APIs, build backends,
+slap a UI on top, and push it live.
+Not because I have to. Because a project without a link isn't real.
 
 ---
 
-### 📬 Reach Me
+### the stack
 
-- LinkedIn: [Click here!](https://www.linkedin.com/in/saakshammm/)
-- Portfolio: [Click here!](https://saakshammm.github.io/portfolio/)
+**Languages** → Python, C, SQL  
+**ML / DL** → PyTorch, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib  
+**LLM / APIs** → OpenAI, NVIDIA NIM, Hugging Face, Spotify OAuth, TMDB  
+**Ship it** → FastAPI, Flask, Streamlit, Render, Hugging Face Spaces  
+
+---
+
+### what i've built
+
+**Emotion-Detection** — custom CNN. 35K+ images. trained from scratch. no pretrained backbone.  
+**[broreadtheterms](https://saakshammm-broreadtheterms.hf.space/)** — feeds your T&Cs to an LLM and tells you how cooked you are. 0–100 danger score.  
+**[Morbus](https://morbus-7gvq.onrender.com/)** — connects to your Spotify. knows your taste. talks about it with you.  
+**[cooked](https://cooked-lf32.onrender.com/)** — uploads your WhatsApp chat. roasts your entire personality.  
+**Jarvis-AI** — voice-controlled desktop assistant. zephyr-7B brain. talks back.  
+**[Movie Recommender](https://saakshammm-movie-rec-sys.hf.space)** — built during internship at ElevateLabs. live on HuggingFace.  
+
+---
+
+### what i'm doing right now
+
+final year. building more.
+if you're hiring for ML / DL / AI roles — connect with me.
+
+---
+
+### find me
+
+[LinkedIn](https://www.linkedin.com/in/saakshammm/) · [Portfolio](https://saakshammm.github.io/portfolio/)
