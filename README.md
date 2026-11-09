@@ -1,28 +1,12 @@
 # hey, i'm saksham.
 
-AI student. Builder. Deployer of things that actually run.
-
-I got tired of projects that live forever in "almost done" hell —
-so everything I make either ships or gets deleted.
-No half-finished notebooks. No "coming soon."
-If it's pinned, it works. Right now. Click it.
-
----
+i build stuff
 
 ### what i actually do
 
-I train models from scratch, wire up LLM APIs, build backends,
+I train models from scratch, wire up LLM APIs, build backends, 
 slap a UI on top, and push it live.
 Not because I have to. Because a project without a link isn't real.
-
----
-
-### the stack
-
-**Languages** → Python, C, SQL  
-**ML / DL** → PyTorch, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib  
-**LLM / APIs** → OpenAI, NVIDIA NIM, Hugging Face, Spotify OAuth, TMDB  
-**Ship it** → FastAPI, Flask, Streamlit, Render, Hugging Face Spaces  
 
 ---
 
@@ -39,8 +23,7 @@ Not because I have to. Because a project without a link isn't real.
 
 ### what i'm doing right now
 
-final year. building more.
-if you're hiring for ML / DL / AI roles — connect with me.
+graduated. learning more to build more
 
 ---
 
