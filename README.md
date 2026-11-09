@@ -4,9 +4,9 @@ i build stuff
 
 ### what i actually do
 
-I train models from scratch, wire up LLM APIs, build backends, 
+i train models from scratch, wire up LLM APIs, build backends, 
 slap a UI on top, and push it live.
-Not because I have to. Because a project without a link isn't real.
+not because i have to but because a project without a link isn't real.
 
 ---
 
@@ -23,7 +23,7 @@ Not because I have to. Because a project without a link isn't real.
 
 ### what i'm doing right now
 
-graduated. learning more to build more
+graduated. learning more to build more.
 
 ---
 
